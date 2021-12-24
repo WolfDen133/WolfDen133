@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my github!
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=WolfDen133&show_icons=true&count_private=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfDen133&layout=compact)
